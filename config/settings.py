@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-+9_!f(sq6gfr1uxv&7co%t28s%=#zmc5-ihi+o^k=lwjnffcy=
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["165.227.23.128", "127.0.0.1"]
+ALLOWED_HOSTS = ["165.227.23.128", "127.0.0.1", "orders.quizsite.uz"]
 
 
 # Application definition
